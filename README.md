@@ -1,4 +1,4 @@
-Projet implémentant la jeu de la vie(game of life) défini en 1970 par le mathématicien anglais John Conway.
+Projet implémentant le jeu de la vie(game of life) défini en 1970 par le mathématicien anglais John Conway.
 
 Versions du projet
 
@@ -14,6 +14,8 @@ Versions du projet
 Sous-versions:
 "0.3.1", "0.3.2" etc. - sous-version du niveau 3.
 "0.5.1", "0.5.2" etc
+<img width="805" alt="Screenshot 2023-07-02 at 21 39 08" src="https://github.com/sabinaaskerova/gol/assets/91430159/c2a2e015-f651-4db6-9292-c795f1301795">
+<img width="804" alt="Screenshot 2023-07-02 at 21 40 05" src="https://github.com/sabinaaskerova/gol/assets/91430159/bd23027f-b651-4458-ac3a-53693f598d3a">
 
 
 "ranlib" créer un répertoire avec une bibliothèque
