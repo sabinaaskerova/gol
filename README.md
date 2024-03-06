@@ -17,9 +17,9 @@ Sous-versions:
 
 <img width="288" alt="Screenshot 2023-07-02 at 21 46 02" src="https://github.com/sabinaaskerova/gol/assets/91430159/4f619274-9c53-42d2-8061-55b6b721cde2">
 <img width="262" alt="Screenshot 2023-07-02 at 21 46 13" src="https://github.com/sabinaaskerova/gol/assets/91430159/090d8c39-0a54-4f95-9b15-76530e4f3e1d">
-
-<img width="805" alt="Screenshot 2023-07-02 at 21 39 08" src="https://github.com/sabinaaskerova/gol/assets/91430159/c2a2e015-f651-4db6-9292-c795f1301795">
-<img width="804" alt="Screenshot 2023-07-02 at 21 40 05" src="https://github.com/sabinaaskerova/gol/assets/91430159/bd23027f-b651-4458-ac3a-53693f598d3a">
+<br>
+<img width="300" alt="Screenshot 2023-07-02 at 21 39 08" src="https://github.com/sabinaaskerova/gol/assets/91430159/c2a2e015-f651-4db6-9292-c795f1301795">
+<img width="300" alt="Screenshot 2023-07-02 at 21 40 05" src="https://github.com/sabinaaskerova/gol/assets/91430159/bd23027f-b651-4458-ac3a-53693f598d3a">
 
 
 "ranlib" créer un répertoire avec une bibliothèque
